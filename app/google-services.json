@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "880303980484",
+    "firebase_url": "https://av2-mobile-6a4b6-default-rtdb.firebaseio.com",
+    "project_id": "av2-mobile-6a4b6",
+    "storage_bucket": "av2-mobile-6a4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880303980484:android:cb102c635f60185fbc6e91",
+        "android_client_info": {
+          "package_name": "com.example.InstaMovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2kyBOtWItrG01Zof_wRw4N9oUqF-io8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880303980484:android:81448ee59a3fdacebc6e91",
+        "android_client_info": {
+          "package_name": "com.example.lobby"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2kyBOtWItrG01Zof_wRw4N9oUqF-io8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
